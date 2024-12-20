@@ -3,7 +3,7 @@
 ## Overview
 This project is me experimenting with **AgentStack** by building two AI-powered agents that collaborate to deliver a lyrical twist on current events. It takes **five recent news headlines** and fuses them into a single, intricate rap verse styled after **Aesop Rock**.
 
-(PS: Not that I'm a big Aesop Rock fan, it was just the first name I thought of)
+(PS: Not that I'm a big Aesop Rock fan, as a matter of fact I can't even name five Aesop songs. It was just the first name I thought of)
 
 ### Agents:
 1. **newsresearcher**  
